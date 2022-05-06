@@ -1,0 +1,50 @@
+[{
+    "title":"Almond Butter",
+    "image":"https://www.fitmeals.co.in/wp-content/uploads/2021/05/1.jpg",
+    "price":800,
+    "description":"Delectable almond butter prepared in-house, serves as the perfect guilt-free accompaniment with your healthy snacks and smoothies.",
+    "quantity":500,
+    "categories":["Nut butters","Products"],
+    "subcategories":"Nut butters"
+    
+
+
+},
+{
+    "title":"Arrabiata Sauce",
+    "image":"https://www.fitmeals.co.in/wp-content/uploads/2021/06/arrabbiata-sauce-680x900-1.jpg",
+    "price":220,
+    "description":"Fitmeals Arrabbiata sauce is a delicious blend of spicy chillies, tomatoes and authentic Italian ingredients.",
+    "quantity":500,
+    "categories":["Low Calorie Sauces","Products"] ,
+    "subcategories":"Low Calorie Sauces"
+},
+{
+    "title":"Almond Date Chocolate",
+    "image":"https://www.fitmeals.co.in/wp-content/uploads/2021/06/25.jpg",
+    "price":1200,
+    "description":"Delicious Dates stuffed with a Almonds and covered in dark chocolate. With the finest golden almonds at the core, surrounded by irresistible luscious dates and enveloped with soft and delectable chocolate, combine to give you three layers of happiness.",
+    "quantity":500,
+    "categories":["vegan Sweets","Products"],
+    "subcategories":"vegan sweets"
+
+  
+},
+
+
+{
+
+    "title":"Coco Rush",
+    "image":"https://www.fitmeals.co.in/wp-content/uploads/2021/06/23-550x550.jpg",
+    "price":550,
+    "description":"Delicious Dates stuffed with a Almonds and covered in dark chocolate. With the finest golden almonds at the core, surrounded by irresistible luscious dates and enveloped with soft and delectable chocolate, combine to give you three layers of happiness.",
+    "quantity":500,
+    "categories":["vegan","Products"],
+    "subcategories":"vegan sweets"
+
+
+}
+
+]
+
+
