@@ -2,6 +2,12 @@ const express = require("express");
 const users = require("../model/regeistermodel");
 const bcrypt = require('bcrypt');
 
+const verifytoken = (token) => {
+    return jwt.verify(token, 'shhhhh', function (err, decoded) {
+        console.log(decoded.foo) // bar
+    });
+
+}
 
 const route = express.Router();
 
