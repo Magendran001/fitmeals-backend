@@ -13,25 +13,14 @@ route.get("", (req, res) => {
     }
 })
 
-route.get("/singleprdt/:_id", async (req, res) => {
-    try {
-        let x = await product.findById(req.params._id).lean().exec();
-
-        return res.send(x)
-    }
-    catch (e) {
-        return res.send(e.message)
-    }
-})
-
 
 route.get("/products/:subcategories", async (req, res) => {
 
     try {
-        console.log(req.params.subcategories);
 
-        let x = await product.find({ categories: req.params.subcategories }).lean().exec();
-        console.log(x)
+        console.log(req.params.subcategories)
+
+        let x = await product.find({ subcategories: req.params.subcategories }).lean().exec();
 
         return res.send(x)
     }
@@ -41,30 +30,28 @@ route.get("/products/:subcategories", async (req, res) => {
 
 })
 
-
-
-route.get("/products/:subcategories/:sort", async (req, res) => {
+route.get("/product/vegan_sweets", async (req, res) => {
 
     try {
 
-        console.log(req.params)
 
-        let x = await product.find({ categories: req.params.subcategories }).sort({ price: req.params.sort }).lean().exec();
+        let x = await product.find({ subcategories: "vegan sweets" }).lean().exec();
 
         return res.send(x)
     }
     catch (e) {
         return res.send(e.message)
     }
-
 })
-
-
 
 route.get("/product", async (req, res) => {
 
     let x = await product.find({}).lean().exec();
     return res.send(x)
 })
+route.get("/products", async (req, res) => {
 
+    let x = await product.find({}).lean().exec();
+    return res.send(x)
+})
 module.exports = route

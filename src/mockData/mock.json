@@ -1,0 +1,195 @@
+[
+    {
+        "title": "Almond Butter",
+        "image": "https://www.fitmeals.co.in/wp-content/uploads/2021/05/1.jpg",
+        "price": 800,
+        "description": "Delectable almond butter prepared in-house, serves as the perfect guilt-free accompaniment with your healthy snacks and smoothies.",
+        "qunatity": 500,
+        "categories": "Products, Nut Butters"
+    },
+    {
+        "title": "Almond Date Chocolate",
+        "image": "https://www.fitmeals.co.in/wp-content/uploads/2021/06/25.jpg",
+        "price": 1200,
+        "description": "Delicious Dates stuffed with a Almonds and covered in dark chocolate. With the finest golden almonds at the core, surrounded by irresistible luscious dates and enveloped with soft and delectable chocolate, combine to give you three layers of happiness.",
+        "qunatity": 500,
+        "categories": "Products, Vegan Sweets"
+
+    }, 
+    {
+        "title": "Arrabiata Sauce",
+        "image": "https://www.fitmeals.co.in/wp-content/uploads/2021/06/arrabbiata-sauce-680x900-1-600x599.jpg",
+        "price": 220,
+        "description": "Fitmeals Arrabbiata sauce is a delicious blend of spicy chillies, tomatoes and authentic Italian ingredients.",
+        "qunatity": 500,
+        "categories": "Low Calorie Sauces, Products"
+    }, 
+    {
+        "title": "BBQ Sauce",
+        "image": "https://www.fitmeals.co.in/wp-content/uploads/2021/06/12.jpg",
+        "price": 250,
+        "description": "Our signature BBQ sauce has bold, smoky flavour with a hint of sweetness",
+        "qunatity": 500,
+        "categories": "Low Calorie Sauces, Products"
+    }, 
+    {
+        "title": "Cacao Spread",
+        "image": "https://www.fitmeals.co.in/wp-content/uploads/2021/05/2.jpg",
+        "price": 800,
+        "description": "Treat your taste buds with some guilt-free velvety smooth cacao spread. Serves as the perfect accompaniment with healthy snacks and breads.",
+        "qunatity": 500,
+        "categories": "Nut Butters, Products"
+    }, 
+    {
+        "title": "Coco Rush",
+        "image": "https://www.fitmeals.co.in/wp-content/uploads/2021/06/23.jpg",
+        "price": 550,
+        "description": "Coco Rush is made with dates, nuts, premium grade cacao and wholesome ingredients. A delicious, healthy alternative for your sweet tooth cravings.",
+        "qunatity": 500,
+        "categories": "Products, Vegan Sweets"
+    }, 
+    {
+        "title": "Energy Bars",
+        "image": "https://www.fitmeals.co.in/wp-content/uploads/2021/06/veganhomemadeenergybarsh-600x600.jpg",
+        "price": 750,
+        "description": "Each bar brings a great texture with the energy and nutrients you need.  We keep things sweet by using only organic dried fruits, organic dark chocolate, organic honey, and other clean flavors to satisfy your cravings. We never use any artificial or chemical sweeteners.",
+        "qunatity": 500,
+        "categories": "Products, Vegan Sweets"
+    }, 
+    {
+        "title": "Espresso Cashew Butter",
+        "image": "https://www.fitmeals.co.in/wp-content/uploads/2021/05/6.jpg",
+        "price": 650,
+        "description": "Calling all espresso lovers and nut butter addicts! You’re in for a special treat with this in-house cashew butter. With the richness of the cashews and the aromatic espresso flavor you get the best of both worlds!",
+        "qunatity": 500,
+        "categories": "Nut Butters, Products"
+    }, 
+    {
+        "title": "Flax Seed Balls",
+        "image": "https://www.fitmeals.co.in/wp-content/uploads/2021/06/24.jpg",
+        "price": 550,
+        "description": "A crunchy, chocolaty dessert for hunger pangs, Flax Seeds will provide you instant energy.",
+        "qunatity": 500,
+        "categories": "Products, Vegan Sweets"
+    }, 
+    {
+        "title": "Garlic Mayo",
+        "image": "https://www.fitmeals.co.in/wp-content/uploads/2021/06/14-.jpg",
+        "price": 180,
+        "description": "The perfect blend of irresistible earthy tones of garlic into freshly prepared mayonnaise creates a versatile, creamy condiment you’ll want to use in all your dishes.",
+        "qunatity": 500,
+        "categories": "Low Calorie Sauces, Products"
+    }, 
+    {
+        "title": "Green Pesto Sauce",
+        "image": "https://www.fitmeals.co.in/wp-content/uploads/2021/06/DSC_0007.jpg",
+        "price": 320,
+        "description": "Our Basil Pesto is an excellent versatile spread that is ready to use. Its combination of ingredients offers a delicious flavor to any food. It goes well on Pasta, Lasagna, Bruschetta, Salads, Garlic Breads and Gnocchi to offer a traditional Italian flavor. Pesto can be used on different types of dishes too like pesto chicken or pesto salmon. Our pesto is even great for pesto pizza which is becoming a popular flavor for pizza lovers.",
+        "qunatity": 200,
+        "categories": "Low Calorie Sauces, Products"
+    }, 
+    {
+        "title": "Hazelnut Chocolate Spread",
+        "image": "https://www.fitmeals.co.in/wp-content/uploads/2021/05/5.jpg",
+        "price": 550,
+        "description": "A tasty, delicious Hazelnut spread featuring the delectable richness of Hazelnut. Indulge in Hazelnuts flavored with Cocao without adding it to your waistline.",
+        "qunatity": 250,
+        "categories": "Nut Butters, Products"
+    }, 
+    {
+        "title": "Homemade Ketchup",
+        "image": "https://www.fitmeals.co.in/wp-content/uploads/2021/05/Homemade-Ketchup-3-BoulderLocavore.com_-1.jpg",
+        "price": 260,
+        "description": "The rich creamy texture of this organic vegan tomato ketchup along with a delicious blend of spices provides a nice tangy twist to food.",
+        "qunatity": 500,
+        "categories": "Low Calorie Sauces, Products"
+    }, 
+    {
+        "title": "Honey Mustard Sauce",
+        "image": "https://www.fitmeals.co.in/wp-content/uploads/2021/05/11.jpg",
+        "price": 220,
+        "description": "DELICIOUS and CLASSIC blend of fresh creamy mustard! IMAGINE having this versatile sauce in your pantry. It’s perfect for wings, pouring over a salad or dunking! If you love honey mustard, this MOUTHWATERING sauce was made just for you!",
+        "qunatity": 250,
+        "categories": "Low Calorie Sauces, Products"
+    }, 
+    {
+        "title": "Mexican Sauce",
+        "image": "https://www.fitmeals.co.in/wp-content/uploads/2021/05/12.jpg",
+        "price": 320,
+        "description": "This spicy flavor packed blend serves as the perfect accompaniment with your food",
+        "qunatity": 500,
+        "categories": "Low Calorie Sauces, Products"
+    }, 
+    {
+        "title": "Nutty Buddy",
+        "image": "https://www.fitmeals.co.in/wp-content/uploads/2021/06/snack-nuttyBuddy-300x300-1.jpg",
+        "price": 650,
+        "description": "Nutty Buddy – These Nutrient-packed nutty treats make for the perfect guilt-free snack … and they’re so yummy you’ll reach for them every chance you get.",
+        "qunatity": 500,
+        "categories": "Products, Vegan Sweets"
+    }, 
+    {
+        "title": "Peanut Butter",
+        "image": "https://www.fitmeals.co.in/wp-content/uploads/2021/05/3.jpg",
+        "price": 500,
+        "description": "Premium quality peanut butter, packs a protein punch with no added sugar or preservatives.",
+        "qunatity": 500,
+        "categories": "Nut Butters, Products"
+    }, 
+    {
+        "title": "Peanut Butter Truffles",
+        "image": "https://www.fitmeals.co.in/wp-content/uploads/2021/06/peanut-butter-balls-2.jpg",
+        "price": 1050,
+        "description": "Creamy peanut butter completely coated in dark chocolate — The ultimate snack for those who love all things peanutty",
+        "qunatity": 500,
+        "categories": "Products, Vegan Sweets"
+    }, 
+    {
+        "title": "Peanut Chikki",
+        "image": "https://www.fitmeals.co.in/wp-content/uploads/2021/06/28.jpg",
+        "price": 450,
+        "description": "Peanut Chikki or Brittle Candy has a great Natural sweet Taste comes from using Jaggery and peanuts, these delicious guilt-free treats are gluten free.",
+        "qunatity": 500,
+        "categories": "Products, Vegan Sweets"
+    }, 
+    {
+        "title": "Pistachio Butter",
+        "image": "https://www.fitmeals.co.in/wp-content/uploads/2021/05/4-2.jpg",
+        "price": 550,
+        "description": "Our Pistachio butter is made from premium quality roasted Pistachios & Nothing Else. Every bottle of pistachio butter is hand packed to ensure top quality with smooth texture, a super yummy flavor and make our daily dose of Pistachio more fun & healthy.",
+        "qunatity": 250,
+        "categories": "Nut Butters, Products"
+    }, 
+    {
+        "title": "Pistachio Date Chocolate",
+        "image": "https://www.fitmeals.co.in/wp-content/uploads/2021/06/27.jpg",
+        "price": 1400,
+        "description": "Delicious Dates stuffed with a Pistachios and covered in dark chocolate. With the finest pistachios at the core, surrounded by irresistible luscious dates and enveloped with soft and delectable chocolate, combine to give you three layers of happiness.",
+        "qunatity": 500,
+        "categories": "Products, Vegan Sweets"
+    }, 
+    {
+        "title": "Protein Brownie",
+        "image": "https://www.fitmeals.co.in/wp-content/uploads/2021/06/14.jpg",
+        "price": 650,
+        "description": "DELICIOUS FLAVORS: A delicious indulgence with decadent flavors! Moist, light, and sweet tasting but without the guilt!",
+        "qunatity": 500,
+        "categories": "Products, Vegan Sweets"
+    }, 
+    {
+        "title": "Red Pesto",
+        "image": "https://www.fitmeals.co.in/wp-content/uploads/2021/06/pesto-rosso-4-680x952-1-600x600.jpg",
+        "price": 350,
+        "description": "Amazing flavor our Sun-Dried Tomato Pesto adds to any Appetizer, Soup, Salad or Entree",
+        "qunatity": 200,
+        "categories": "Low Calorie Sauces, Products"
+    }, 
+    {
+        "title": "Seed Bars",
+        "image": "https://www.fitmeals.co.in/wp-content/uploads/2021/06/7ba24c9efec520a934e394627206dcfe-600x600.jpg",
+        "price": 640,
+        "description": "Superfood Seed Bars – made with 5 different types of seeds are packed full of nutrients – fiber, protein and health-boosting vitamins and minerals – nutritional powerhouses!",
+        "qunatity": 500,
+        "categories": "Products, Vegan Sweets"
+    }
+]
