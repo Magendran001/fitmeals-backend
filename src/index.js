@@ -8,7 +8,9 @@ const cors = require("cors");
 
 const productcontroller = require("./controller/productcontroller.js");
 const regeistercontroller = require("./controller/regeistercontroller.js");
-const logincontroller = require("./controller/logincontroller.js")
+const logincontroller = require("./controller/logincontroller.js");
+const usercontroller = require("./controller/usercontroller");
+const todoscontroller = require("./controller/todoscontroller")
 
 
 
@@ -16,12 +18,14 @@ const logincontroller = require("./controller/logincontroller.js")
 
 app.use(cors());
 app.use("/regeister", regeistercontroller);
-app.use("/login", logincontroller)
+app.use("/login", logincontroller);
+app.use("/todos", todoscontroller)
 
 console.log("Connected to backend")
 
 
 app.use("", productcontroller);
+app.use("/user", usercontroller);
 
 
 

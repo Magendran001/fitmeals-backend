@@ -21,14 +21,14 @@ route.post("", async (req, res, next) => {
             return res.send(" please regeister first")
         }
         if (x) {
-            console.log(x)
+
             let confirm = bcrypt.compareSync(req.body.password, x.password);
             if (confirm) {
-                return res.send("login success")
+                return res.send({ user: x, status: "login success" })
             }
 
         }
-        return res.send("Check username or password")
+        return res.status(401).send("Check username or password")
     }
     catch (error) {
         return res.send(error.message)
