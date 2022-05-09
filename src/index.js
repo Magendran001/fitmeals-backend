@@ -6,6 +6,7 @@ const app = express();
 app.use(express.json())
 const cors = require("cors");
 
+
 const productcontroller = require("./controller/productcontroller.js");
 const regeistercontroller = require("./controller/regeistercontroller.js");
 const logincontroller = require("./controller/logincontroller.js");
@@ -31,9 +32,9 @@ app.use("/user", usercontroller);
 
 
 
+const port = process.env.PORT || 9083
 
-
-app.listen(9083, () => {
+app.listen(port, () => {
     connect()
     console.log("listening on 9083 port")
 })
