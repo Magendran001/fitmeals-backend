@@ -1,6 +1,6 @@
 const express = require("express");
 const users = require("../model/regeistermodel");
-const bcrypt = require('bcrypt');
+var bcrypt = require('bcryptjs');
 
 const verifytoken = (token) => {
     return jwt.verify(token, 'shhhhh', function (err, decoded) {
